@@ -1,0 +1,12 @@
+package com.ayou.article.impl;
+
+import com.ayou.article.ArticleService;
+
+public class ArticleServiceImpl implements ArticleService {
+
+	@Override
+	public String getName() {
+		return "我是服务提供者";
+	}
+
+}

@@ -1,0 +1,9 @@
+package com.ayou.article.action.factory;
+
+import com.alibaba.citrus.springext.support.context.XmlBeanFactory;
+
+@SuppressWarnings("deprecation")
+public class FactoryTest extends XmlBeanFactory{
+
+
+}

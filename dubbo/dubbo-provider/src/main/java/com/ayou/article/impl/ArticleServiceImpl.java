@@ -1,0 +1,14 @@
+package com.ayou.article.impl;
+
+import com.alibaba.dubbo.config.annotation.Service;
+import com.ayou.article.ArticleService;
+
+@Service(version = "1.0")
+public class ArticleServiceImpl implements ArticleService {
+
+	@Override
+	public String getName() {
+		return "我是服务提供者";
+	}
+
+}

@@ -1,0 +1,5 @@
+package com.ayou.article.action.factory;
+
+public class FactoryTest {
+
+}

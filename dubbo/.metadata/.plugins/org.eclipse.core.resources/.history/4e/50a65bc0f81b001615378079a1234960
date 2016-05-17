@@ -1,0 +1,9 @@
+package com.ayou.article.action.factory;
+
+import org.springframework.beans.factory.xml.XmlBeanFactory;
+
+@SuppressWarnings("deprecation")
+public class FactoryTest extends XmlBeanFactory{
+
+
+}

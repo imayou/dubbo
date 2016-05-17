@@ -1,0 +1,14 @@
+package com.ayou.article.action;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
+
+@RequestMapping("/article")
+public class ArticleAction {
+
+	@RequestMapping("/name")
+	@ResponseBody
+	public String getName() {
+		return null;
+	}
+}

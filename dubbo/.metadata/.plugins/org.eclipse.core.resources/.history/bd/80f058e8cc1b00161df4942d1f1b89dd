@@ -1,0 +1,8 @@
+package com.ayou.article.action;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@RequestMapping("article")
+public class ArticleAction {
+
+}

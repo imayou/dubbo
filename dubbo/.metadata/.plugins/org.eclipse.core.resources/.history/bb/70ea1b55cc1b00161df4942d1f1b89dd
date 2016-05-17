@@ -1,0 +1,5 @@
+package com.ayou.article;
+
+public class ArticleService {
+
+}

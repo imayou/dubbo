@@ -1,0 +1,941 @@
+2016-05-17 08:39:51,034 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\JAVA\JavaCode\dubbo\dubbo.service\pom.xml
+2016-05-17 08:39:53,326 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo.service:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo.service\pom.xml.
+2016-05-17 08:39:54,694 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo.service/src/main/java
+2016-05-17 08:39:54,695 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dubbo.service/src/main/resources
+2016-05-17 08:39:54,696 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo.service/src/test/java
+2016-05-17 08:39:56,371 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2016-05-17 08:39:56,997 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:39:56,999 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 08:39:57,001 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:39:57,002 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\JAVA\JavaCode\dubbo\dubbo.service\src\test\resources
+2016-05-17 08:40:47,449 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\JAVA\JavaCode\dubbo\dubbo-service\pom.xml
+2016-05-17 08:40:47,862 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-service:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-service\pom.xml.
+2016-05-17 08:40:48,346 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-service/src/main/java
+2016-05-17 08:40:48,346 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dubbo-service/src/main/resources
+2016-05-17 08:40:48,346 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-service/src/test/java
+2016-05-17 08:40:49,334 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2016-05-17 08:40:49,643 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:40:49,644 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 08:40:49,646 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:40:49,647 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\JAVA\JavaCode\dubbo\dubbo-service\src\test\resources
+2016-05-17 08:41:23,678 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\JAVA\JavaCode\dubbo\dubbo-consumer\pom.xml
+2016-05-17 08:41:23,720 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-consumer:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-consumer\pom.xml.
+2016-05-17 08:41:23,806 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-consumer/src/main/java
+2016-05-17 08:41:23,806 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dubbo-consumer/src/main/resources
+2016-05-17 08:41:23,806 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-consumer/src/test/java
+2016-05-17 08:41:24,686 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2016-05-17 08:41:25,060 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:41:25,062 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 08:41:25,064 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:41:25,065 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\JAVA\JavaCode\dubbo\dubbo-consumer\src\test\resources
+2016-05-17 08:47:32,544 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-consumer:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-consumer\pom.xml.
+2016-05-17 08:47:32,708 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:47:32,710 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 08:47:32,711 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:47:32,711 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\JAVA\JavaCode\dubbo\dubbo-consumer\src\test\resources
+2016-05-17 08:47:32,712 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-consumer
+2016-05-17 08:47:32,713 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-consumer
+2016-05-17 08:47:32,719 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:47:44,858 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-service:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-service\pom.xml.
+2016-05-17 08:47:45,008 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:47:45,008 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 08:47:45,009 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:47:45,009 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\JAVA\JavaCode\dubbo\dubbo-service\src\test\resources
+2016-05-17 08:47:45,009 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-service
+2016-05-17 08:47:45,009 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-service
+2016-05-17 08:47:45,011 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:47:56,843 [Worker-30] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-05-17 08:47:57,020 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-consumer:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-consumer\pom.xml.
+2016-05-17 08:47:57,046 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-service:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-service\pom.xml.
+2016-05-17 08:47:57,552 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-consumer/src/main/java
+2016-05-17 08:47:57,553 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dubbo-consumer/src/main/resources
+2016-05-17 08:47:57,553 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-consumer/src/test/java
+2016-05-17 08:47:58,433 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-service/src/main/java
+2016-05-17 08:47:58,433 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dubbo-service/src/main/resources
+2016-05-17 08:47:58,433 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-service/src/test/java
+2016-05-17 08:47:59,299 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for dubbo-consumer
+2016-05-17 08:47:59,311 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for dubbo-service
+2016-05-17 08:47:59,322 [Worker-30] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2016-05-17 08:47:59,898 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:47:59,899 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 08:47:59,902 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:47:59,903 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\JAVA\JavaCode\dubbo\dubbo-consumer\src\test\resources
+2016-05-17 08:47:59,904 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-consumer
+2016-05-17 08:47:59,904 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-consumer
+2016-05-17 08:47:59,908 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:47:59,939 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:47:59,940 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 08:47:59,940 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:47:59,941 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\JAVA\JavaCode\dubbo\dubbo-service\src\test\resources
+2016-05-17 08:47:59,941 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-service
+2016-05-17 08:47:59,941 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-service
+2016-05-17 08:47:59,943 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:48:00,054 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:48:00,056 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 08:48:00,058 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:48:00,059 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\JAVA\JavaCode\dubbo\dubbo-service\src\test\resources
+2016-05-17 08:48:00,198 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:48:00,201 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 08:48:00,203 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:48:00,204 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\JAVA\JavaCode\dubbo\dubbo-service\src\test\resources
+2016-05-17 08:49:11,218 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-service:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-service\pom.xml.
+2016-05-17 08:49:12,817 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:49:12,819 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 08:49:12,820 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:49:12,821 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\JAVA\JavaCode\dubbo\dubbo-service\src\test\resources
+2016-05-17 08:49:12,822 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-service
+2016-05-17 08:49:12,822 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-service
+2016-05-17 08:49:12,825 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:49:14,477 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:49:14,478 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 08:49:14,479 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:49:14,479 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\JAVA\JavaCode\dubbo\dubbo-service\src\test\resources
+2016-05-17 08:49:15,636 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-service:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-service\pom.xml.
+2016-05-17 08:49:16,874 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:49:16,876 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 08:49:16,877 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:49:16,877 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\JAVA\JavaCode\dubbo\dubbo-service\src\test\resources
+2016-05-17 08:49:16,877 [Worker-27] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-service
+2016-05-17 08:49:16,877 [Worker-27] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-service
+2016-05-17 08:49:16,879 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:49:24,387 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-consumer:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-consumer\pom.xml.
+2016-05-17 08:49:25,153 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:49:25,154 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 08:49:25,155 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:49:25,155 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\JAVA\JavaCode\dubbo\dubbo-consumer\src\test\resources
+2016-05-17 08:49:25,155 [Worker-28] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-consumer
+2016-05-17 08:49:25,155 [Worker-28] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-consumer
+2016-05-17 08:49:25,158 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:49:26,668 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:49:26,668 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 08:49:26,669 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:49:26,669 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\JAVA\JavaCode\dubbo\dubbo-consumer\src\test\resources
+2016-05-17 08:50:19,905 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-consumer:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-consumer\pom.xml.
+2016-05-17 08:50:21,586 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:50:21,587 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 08:50:21,587 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:50:21,588 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\JAVA\JavaCode\dubbo\dubbo-consumer\src\test\resources
+2016-05-17 08:50:21,588 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-consumer
+2016-05-17 08:50:21,588 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-consumer
+2016-05-17 08:50:21,590 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:50:22,231 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:50:22,232 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 08:50:22,232 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:50:22,233 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\JAVA\JavaCode\dubbo\dubbo-consumer\src\test\resources
+2016-05-17 08:50:28,187 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-service:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-service\pom.xml.
+2016-05-17 08:50:29,277 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:50:29,278 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 08:50:29,280 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:50:29,280 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\JAVA\JavaCode\dubbo\dubbo-service\src\test\resources
+2016-05-17 08:50:29,281 [Worker-33] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-service
+2016-05-17 08:50:29,281 [Worker-33] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-service
+2016-05-17 08:50:29,284 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:50:31,167 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:50:31,167 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 08:50:31,168 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:50:31,168 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\JAVA\JavaCode\dubbo\dubbo-service\src\test\resources
+2016-05-17 08:51:25,295 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:51:25,296 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 08:51:25,297 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:51:25,298 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\JAVA\JavaCode\dubbo\dubbo-consumer\src\test\resources
+2016-05-17 08:51:37,001 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:51:37,002 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 08:51:37,002 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:51:37,003 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\JAVA\JavaCode\dubbo\dubbo-service\src\test\resources
+2016-05-17 08:51:49,837 [Worker-35] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-05-17 08:51:50,041 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-consumer:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-consumer\pom.xml.
+2016-05-17 08:51:50,552 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-service:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-service\pom.xml.
+2016-05-17 08:51:52,259 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-consumer/src/main/java
+2016-05-17 08:51:52,259 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dubbo-consumer/src/main/resources
+2016-05-17 08:51:52,259 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-consumer/src/test/java
+2016-05-17 08:51:52,367 [Worker-35] ERROR o.e.m2e.wtp.WTPProjectConfigurator - Unable to configure dubbo-consumer
+org.eclipse.m2e.wtp.MarkedException: Unable to configure dubbo-consumer
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:98) ~[na:na]
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:71) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:501) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:494) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:432) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:345) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1351) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:342) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77) [org.eclipse.m2e.core.ui_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have not been satisfied.
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241) ~[org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339) ~[na:na]
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:133) ~[na:na]
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:94) ~[na:na]
+	... 18 common frames omitted
+2016-05-17 08:51:52,987 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-service/src/main/java
+2016-05-17 08:51:52,987 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dubbo-service/src/main/resources
+2016-05-17 08:51:52,987 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-service/src/test/java
+2016-05-17 08:51:53,115 [Worker-35] ERROR o.e.m2e.wtp.WTPProjectConfigurator - Unable to configure dubbo-service
+org.eclipse.m2e.wtp.MarkedException: Unable to configure dubbo-service
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:98) ~[na:na]
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:71) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:501) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:494) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:432) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:345) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1351) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:342) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77) [org.eclipse.m2e.core.ui_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have not been satisfied.
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241) ~[org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339) ~[na:na]
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:133) ~[na:na]
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:94) ~[na:na]
+	... 18 common frames omitted
+2016-05-17 08:51:53,790 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for dubbo-consumer
+2016-05-17 08:51:53,814 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for dubbo-service
+2016-05-17 08:51:53,833 [Worker-35] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2016-05-17 08:51:54,525 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:51:54,526 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 08:51:54,527 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:51:54,528 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\JAVA\JavaCode\dubbo\dubbo-consumer\src\test\resources
+2016-05-17 08:51:54,528 [Worker-36] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-consumer
+2016-05-17 08:51:54,528 [Worker-36] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-consumer
+2016-05-17 08:51:54,530 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:51:55,000 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:51:55,001 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 08:51:55,002 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:51:55,002 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\JAVA\JavaCode\dubbo\dubbo-service\src\test\resources
+2016-05-17 08:51:55,002 [Worker-36] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-service
+2016-05-17 08:51:55,002 [Worker-36] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-service
+2016-05-17 08:51:55,004 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:52:26,905 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:52:26,907 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 08:52:26,908 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:52:26,908 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\JAVA\JavaCode\dubbo\dubbo-service\src\test\resources
+2016-05-17 08:52:34,167 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:52:34,168 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 08:52:34,168 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:52:34,169 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\JAVA\JavaCode\dubbo\dubbo-consumer\src\test\resources
+2016-05-17 08:52:38,736 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-05-17 08:52:38,891 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-consumer:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-consumer\pom.xml.
+2016-05-17 08:52:39,306 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-service:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-service\pom.xml.
+2016-05-17 08:52:40,036 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-consumer/src/main/java
+2016-05-17 08:52:40,036 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dubbo-consumer/src/main/resources
+2016-05-17 08:52:40,036 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-consumer/src/test/java
+2016-05-17 08:52:40,939 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-service/src/main/java
+2016-05-17 08:52:40,939 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dubbo-service/src/main/resources
+2016-05-17 08:52:40,940 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-service/src/test/java
+2016-05-17 08:52:41,859 [Worker-31] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for dubbo-consumer
+2016-05-17 08:52:41,873 [Worker-31] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for dubbo-service
+2016-05-17 08:52:41,878 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2016-05-17 08:52:42,465 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:52:42,466 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 08:52:42,467 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:52:42,468 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\JAVA\JavaCode\dubbo\dubbo-consumer\src\test\resources
+2016-05-17 08:52:42,468 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-consumer
+2016-05-17 08:52:42,468 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-consumer
+2016-05-17 08:52:42,471 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:52:43,168 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:52:43,169 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 08:52:43,170 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:52:43,171 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\JAVA\JavaCode\dubbo\dubbo-service\src\test\resources
+2016-05-17 08:52:43,171 [Worker-38] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-service
+2016-05-17 08:52:43,171 [Worker-38] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-service
+2016-05-17 08:52:43,173 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:53:34,909 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:53:34,912 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-05-17 08:53:34,920 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:53:34,920 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\JAVA\JavaCode\dubbo\dubbo-consumer\src\test\resources
+2016-05-17 08:54:59,853 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:54:59,854 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-17 08:54:59,856 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:54:59,856 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\JAVA\JavaCode\dubbo\dubbo-consumer\src\test\resources
+2016-05-17 08:59:41,423 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:59:41,424 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 08:59:41,424 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 08:59:41,425 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\JAVA\JavaCode\dubbo\dubbo-service\src\test\resources
+2016-05-17 09:00:04,055 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:00:04,056 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-05-17 09:00:04,059 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:00:04,059 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\JAVA\JavaCode\dubbo\dubbo-consumer\src\test\resources
+2016-05-17 09:01:30,380 [Worker-34] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\JAVA\JavaCode\dubbo\dubbo-provider\pom.xml
+2016-05-17 09:01:30,659 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-provider:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-provider\pom.xml.
+2016-05-17 09:01:30,789 [Worker-34] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-provider/src/main/java
+2016-05-17 09:01:30,789 [Worker-34] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dubbo-provider/src/main/resources
+2016-05-17 09:01:30,789 [Worker-34] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-provider/src/test/java
+2016-05-17 09:01:31,725 [Worker-34] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2016-05-17 09:01:32,061 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:01:32,062 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:01:32,064 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:01:32,065 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\JAVA\JavaCode\dubbo\dubbo-provider\src\test\resources
+2016-05-17 09:02:23,115 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-provider:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-provider\pom.xml.
+2016-05-17 09:02:23,551 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-provider/src/main/java
+2016-05-17 09:02:23,551 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dubbo-provider/src/main/resources
+2016-05-17 09:02:23,552 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-provider/src/test/java
+2016-05-17 09:02:23,552 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dubbo-provider/src/test/resources
+2016-05-17 09:02:23,850 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:02:23,851 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:02:23,852 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:02:23,853 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:02:24,924 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:02:24,927 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:02:24,928 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:02:24,929 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:02:43,923 [Worker-43] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-provider:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-provider\pom.xml.
+2016-05-17 09:02:44,358 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:02:44,359 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:02:44,360 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:02:44,360 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:02:44,361 [Worker-43] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-provider
+2016-05-17 09:02:44,361 [Worker-43] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-provider
+2016-05-17 09:02:44,363 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:02:52,269 [Worker-40] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-provider:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-provider\pom.xml.
+2016-05-17 09:02:52,627 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:02:52,628 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:02:52,629 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:02:52,630 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:02:57,889 [Worker-42] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-provider:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-provider\pom.xml.
+2016-05-17 09:02:58,319 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:02:58,320 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:02:58,321 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:02:58,322 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:02:58,322 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-provider
+2016-05-17 09:02:58,322 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-provider
+2016-05-17 09:02:58,324 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:03:03,202 [Worker-41] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-05-17 09:03:03,431 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-provider:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-provider\pom.xml.
+2016-05-17 09:03:03,737 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-provider/src/main/java
+2016-05-17 09:03:03,737 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dubbo-provider/src/main/resources
+2016-05-17 09:03:03,737 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-provider/src/test/java
+2016-05-17 09:03:03,737 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dubbo-provider/src/test/resources
+2016-05-17 09:03:03,808 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for dubbo-provider
+2016-05-17 09:03:03,813 [Worker-41] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-05-17 09:03:04,049 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:03:04,049 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:03:04,050 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:03:04,051 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:03:04,051 [Worker-47] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-provider
+2016-05-17 09:03:04,051 [Worker-47] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-provider
+2016-05-17 09:03:04,053 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:03:41,723 [Worker-49] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-provider:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-provider\pom.xml.
+2016-05-17 09:03:43,195 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:03:43,197 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:03:43,197 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:03:43,198 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:03:43,198 [Worker-49] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-provider
+2016-05-17 09:03:43,198 [Worker-49] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-provider
+2016-05-17 09:03:43,200 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:03:59,256 [Worker-40] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-05-17 09:03:59,414 [Worker-40] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-provider:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-provider\pom.xml.
+2016-05-17 09:04:00,743 [Worker-40] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-provider/src/main/java
+2016-05-17 09:04:00,743 [Worker-40] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dubbo-provider/src/main/resources
+2016-05-17 09:04:00,748 [Worker-40] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-provider/src/test/java
+2016-05-17 09:04:00,748 [Worker-40] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dubbo-provider/src/test/resources
+2016-05-17 09:04:01,444 [Worker-40] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for dubbo-provider
+2016-05-17 09:04:01,449 [Worker-40] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2016-05-17 09:04:02,526 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:04:02,527 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:04:02,528 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:04:02,528 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:04:02,529 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-provider
+2016-05-17 09:04:02,529 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-provider
+2016-05-17 09:04:02,532 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:04:12,502 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-provider:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-provider\pom.xml.
+2016-05-17 09:04:13,337 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:04:13,339 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:04:13,339 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:04:13,340 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:04:19,143 [Worker-42] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-provider:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-provider\pom.xml.
+2016-05-17 09:04:20,522 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:04:20,524 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:04:20,525 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:04:20,526 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:04:20,526 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-provider
+2016-05-17 09:04:20,527 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-provider
+2016-05-17 09:04:20,529 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:04:53,556 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:04:53,557 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-17 09:04:53,564 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:04:53,564 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\JAVA\JavaCode\dubbo\dubbo-consumer\src\test\resources
+2016-05-17 09:04:54,074 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:04:54,076 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:04:54,076 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:04:54,077 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:05:52,980 [Worker-43] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-provider:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-provider\pom.xml.
+2016-05-17 09:05:54,426 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:05:54,427 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:05:54,428 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:05:54,428 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:05:54,429 [Worker-43] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-provider
+2016-05-17 09:05:54,429 [Worker-43] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-provider
+2016-05-17 09:05:54,431 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:07:45,171 [Worker-47] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-consumer:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-consumer\pom.xml.
+2016-05-17 09:07:45,557 [Worker-47] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-consumer/src/main/java
+2016-05-17 09:07:45,557 [Worker-47] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dubbo-consumer/src/main/resources
+2016-05-17 09:07:45,558 [Worker-47] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-consumer/src/test/java
+2016-05-17 09:07:45,558 [Worker-47] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dubbo-consumer/src/test/resources
+2016-05-17 09:07:45,800 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:07:45,801 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:07:45,802 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:07:45,803 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:08:00,895 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:08:00,896 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:08:00,897 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:08:00,897 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:08:53,870 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-consumer:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-consumer\pom.xml.
+2016-05-17 09:08:54,722 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:08:54,722 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:08:54,723 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:08:54,723 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:08:54,723 [Worker-34] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-consumer
+2016-05-17 09:08:54,723 [Worker-34] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-consumer
+2016-05-17 09:08:54,726 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:08:56,183 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:08:56,183 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:08:56,184 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:08:56,184 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:09:10,595 [Worker-46] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-05-17 09:09:10,623 [Worker-46] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-consumer:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-consumer\pom.xml.
+2016-05-17 09:09:11,151 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-consumer/src/main/java
+2016-05-17 09:09:11,152 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dubbo-consumer/src/main/resources
+2016-05-17 09:09:11,156 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-consumer/src/test/java
+2016-05-17 09:09:11,156 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dubbo-consumer/src/test/resources
+2016-05-17 09:09:11,765 [Worker-46] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for dubbo-consumer
+2016-05-17 09:09:11,770 [Worker-46] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2016-05-17 09:09:12,318 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:09:12,318 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:09:12,319 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:09:12,319 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:09:12,319 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-consumer
+2016-05-17 09:09:12,319 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-consumer
+2016-05-17 09:09:12,321 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:09:12,458 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:09:12,459 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:09:12,460 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:09:12,460 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:09:42,224 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:09:42,225 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-05-17 09:09:42,236 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:09:42,237 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:09:53,064 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:09:53,065 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-17 09:09:53,069 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:09:53,070 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:10:00,629 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:10:00,629 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-05-17 09:10:00,631 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:10:00,632 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:10:17,733 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:10:17,734 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-17 09:10:17,735 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:10:17,736 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:11:26,444 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:11:26,445 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-05-17 09:11:26,446 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:11:26,446 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:11:26,587 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:11:26,587 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:11:26,588 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:11:26,589 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:11:26,595 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:11:26,596 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:11:26,596 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:11:26,597 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:11:49,839 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:11:49,840 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-05-17 09:11:49,841 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:11:49,841 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:12:10,289 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:12:10,290 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-05-17 09:12:10,292 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:12:10,292 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:12:17,476 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:12:17,478 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-05-17 09:12:17,478 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:12:17,479 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:12:48,168 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:12:48,169 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-05-17 09:12:48,170 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:12:48,171 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:13:18,866 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:13:18,867 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-17 09:13:18,870 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:13:18,870 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:13:24,867 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:13:24,869 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-17 09:13:24,871 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:13:24,872 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:13:38,960 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:13:38,961 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-17 09:13:38,962 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:13:38,962 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:14:50,231 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:14:50,233 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-05-17 09:14:50,234 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:14:50,235 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:15:12,315 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:15:12,316 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-05-17 09:15:12,317 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:15:12,317 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:15:56,817 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:15:56,818 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-05-17 09:15:56,819 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:15:56,819 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:16:41,880 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:16:41,882 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-05-17 09:16:41,883 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:16:41,884 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:17:16,592 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:17:16,593 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-17 09:17:16,595 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:17:16,596 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:17:23,747 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:17:23,748 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-17 09:17:23,749 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:17:23,749 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:17:34,622 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:17:34,623 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-17 09:17:34,624 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:17:34,624 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:18:07,596 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:18:07,598 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-17 09:18:07,600 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:18:07,601 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:18:26,044 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:18:26,045 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-17 09:18:26,047 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:18:26,048 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:18:36,795 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:18:36,795 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-17 09:18:36,796 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:18:36,797 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:19:04,641 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:19:04,642 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-17 09:19:04,643 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:19:04,644 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:19:14,319 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:19:14,320 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-05-17 09:19:14,321 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:19:14,322 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:19:28,823 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:19:28,824 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-05-17 09:19:28,826 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:19:28,826 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:19:44,784 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:19:44,784 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-05-17 09:19:44,785 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:19:44,785 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:20:10,813 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:20:10,814 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-05-17 09:20:10,815 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:20:10,816 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:20:16,306 [Worker-54] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\JAVA\JavaCode\dubbo\dubbo-provider
+2016-05-17 09:20:16,307 [Worker-54] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\JAVA\tools\apache-maven-3.3.9\conf\settings.xml install
+2016-05-17 09:20:47,581 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:20:47,582 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-05-17 09:20:47,583 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:20:47,583 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:21:54,194 [Worker-45] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-consumer:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-consumer\pom.xml.
+2016-05-17 09:21:54,524 [Worker-46] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/ayou/dubbo-provider/1.0.0/dubbo-provider-1.0.0.pom
+2016-05-17 09:21:54,529 [Worker-46] ERROR o.e.m.c.u.i.actions.OpenPomAction - Could not resolve artifact com.ayou:dubbo-provider:pom:1.0.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.ayou:dubbo-provider:pom:1.0.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:776) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:1) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:743) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:720) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.ui.internal.actions.OpenPomAction.openPomEditor(OpenPomAction.java:243) [org.eclipse.m2e.core.ui_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.ui.internal.actions.OpenPomAction.openEditor(OpenPomAction.java:218) [org.eclipse.m2e.core.ui_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.editor.xml.PomHyperlinkDetector$6$1.run(PomHyperlinkDetector.java:616) [org.eclipse.m2e.editor.xml_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+2016-05-17 09:21:55,348 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:21:55,348 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:21:55,349 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:21:55,349 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:21:55,349 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-consumer
+2016-05-17 09:21:55,349 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-consumer
+2016-05-17 09:21:55,351 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:21:56,949 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:21:56,950 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-05-17 09:21:56,953 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:21:56,954 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:22:44,572 [Worker-42] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-consumer:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-consumer\pom.xml.
+2016-05-17 09:22:45,892 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:22:45,893 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:22:45,894 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:22:45,895 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:22:45,895 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-consumer
+2016-05-17 09:22:45,895 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-consumer
+2016-05-17 09:22:45,897 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:23:09,662 [Worker-40] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-05-17 09:23:09,926 [Worker-40] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-consumer:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-consumer\pom.xml.
+2016-05-17 09:23:11,344 [Worker-40] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-consumer/src/main/java
+2016-05-17 09:23:11,344 [Worker-40] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dubbo-consumer/src/main/resources
+2016-05-17 09:23:11,345 [Worker-40] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-consumer/src/test/java
+2016-05-17 09:23:11,345 [Worker-40] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dubbo-consumer/src/test/resources
+2016-05-17 09:23:11,438 [Worker-40] ERROR o.e.m2e.wtp.WTPProjectConfigurator - Unable to configure dubbo-consumer
+org.eclipse.m2e.wtp.MarkedException: Unable to configure dubbo-consumer
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:98) ~[na:na]
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:71) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:501) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:494) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:432) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:345) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1351) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:342) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77) [org.eclipse.m2e.core.ui_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have not been satisfied.
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241) ~[org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339) ~[na:na]
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:133) ~[na:na]
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:94) ~[na:na]
+	... 18 common frames omitted
+2016-05-17 09:23:11,912 [Worker-40] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for dubbo-consumer
+2016-05-17 09:23:11,920 [Worker-40] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2016-05-17 09:23:12,586 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:23:12,587 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-05-17 09:23:12,593 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:23:12,594 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:23:12,594 [Worker-54] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-consumer
+2016-05-17 09:23:12,594 [Worker-54] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-consumer
+2016-05-17 09:23:12,596 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:23:52,211 [Worker-48] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-consumer:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-consumer\pom.xml.
+2016-05-17 09:23:53,522 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:23:53,524 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:23:53,524 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:23:53,525 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:23:53,525 [Worker-48] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-consumer
+2016-05-17 09:23:53,525 [Worker-48] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-consumer
+2016-05-17 09:23:53,527 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:24:01,183 [Worker-56] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-05-17 09:24:01,326 [Worker-56] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-consumer:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-consumer\pom.xml.
+2016-05-17 09:24:02,770 [Worker-56] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-consumer/src/main/java
+2016-05-17 09:24:02,770 [Worker-56] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dubbo-consumer/src/main/resources
+2016-05-17 09:24:02,773 [Worker-56] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-consumer/src/test/java
+2016-05-17 09:24:02,774 [Worker-56] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dubbo-consumer/src/test/resources
+2016-05-17 09:24:03,366 [Worker-56] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for dubbo-consumer
+2016-05-17 09:24:03,370 [Worker-56] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2016-05-17 09:24:04,175 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:24:04,176 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-05-17 09:24:04,182 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:24:04,183 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:24:04,183 [Worker-48] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-consumer
+2016-05-17 09:24:04,183 [Worker-48] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-consumer
+2016-05-17 09:24:04,185 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:24:59,937 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:24:59,940 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-05-17 09:24:59,941 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:24:59,942 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:25:14,113 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:25:14,114 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-05-17 09:25:14,115 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:25:14,116 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:30:44,561 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:30:44,562 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-17 09:30:44,564 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:30:44,565 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:32:44,984 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:32:44,985 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-17 09:32:44,986 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:32:44,987 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 09:32:47,065 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:32:47,067 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-17 09:32:47,069 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 09:32:47,070 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 13:49:17,211 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-provider:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-provider\pom.xml.
+2016-05-17 13:49:31,632 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 13:49:31,639 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 13:49:31,868 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-consumer:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-consumer\pom.xml.
+2016-05-17 13:49:32,887 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-provider:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-provider\pom.xml.
+2016-05-17 13:49:36,754 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 13:49:36,757 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 13:49:36,758 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 13:49:36,759 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 13:49:38,635 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 13:49:38,636 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-05-17 13:49:38,672 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 13:49:38,673 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 13:52:03,530 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 13:52:03,534 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-05-17 13:52:03,535 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 13:52:03,536 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 13:52:24,628 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 13:52:24,629 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-05-17 13:52:24,631 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 13:52:24,632 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 13:57:04,458 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 13:57:04,459 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 13:57:04,461 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 13:57:04,462 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 13:57:11,325 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 13:57:11,326 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 13:57:11,326 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 13:57:11,327 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 13:58:09,385 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 13:58:09,389 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-17 13:58:09,393 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 13:58:09,394 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 13:58:27,737 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 13:58:27,739 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-17 13:58:27,742 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 13:58:27,744 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:00:28,105 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:00:28,107 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-17 14:00:28,110 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:00:28,110 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:00:59,950 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:00:59,952 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-17 14:00:59,954 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:00:59,955 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:01:12,168 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:01:12,169 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-05-17 14:01:12,171 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:01:12,172 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:04:24,011 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\JAVA\JavaCode\dubbo\dubbo-provider
+2016-05-17 14:04:24,012 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\JAVA\tools\apache-maven-3.3.9\conf\settings.xml clean
+2016-05-17 14:04:26,520 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:04:26,522 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-05-17 14:04:26,527 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:04:26,528 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:04:26,529 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-provider
+2016-05-17 14:04:26,530 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-provider
+2016-05-17 14:04:26,538 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:04:32,610 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\JAVA\JavaCode\dubbo\dubbo-consumer
+2016-05-17 14:04:32,610 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s E:\JAVA\tools\apache-maven-3.3.9\conf\settings.xml clean
+2016-05-17 14:04:34,004 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:04:34,005 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-05-17 14:04:34,010 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:04:34,012 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:04:34,012 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-consumer
+2016-05-17 14:04:34,012 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-consumer
+2016-05-17 14:04:34,016 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:04:39,750 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for dubbo-consumer
+2016-05-17 14:04:39,762 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for dubbo-provider
+2016-05-17 14:04:39,999 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:04:40,000 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-05-17 14:04:40,003 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:04:40,004 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:04:40,004 [Worker-27] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-provider
+2016-05-17 14:04:40,004 [Worker-27] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-provider
+2016-05-17 14:04:40,008 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:04:40,451 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:04:40,452 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-05-17 14:04:40,458 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:04:40,459 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:04:40,459 [Worker-27] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-consumer
+2016-05-17 14:04:40,459 [Worker-27] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-consumer
+2016-05-17 14:04:40,462 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:06:04,261 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:06:04,262 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-05-17 14:06:04,263 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:06:04,264 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:14:05,710 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:14:05,711 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-05-17 14:14:05,713 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:14:05,714 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:14:26,155 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:14:26,156 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-05-17 14:14:26,157 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:14:26,158 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:15:31,704 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:15:31,705 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-05-17 14:15:31,707 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:15:31,707 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:15:54,994 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:15:54,996 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-05-17 14:15:54,997 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:15:54,998 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:17:38,909 [Worker-43] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-consumer:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-consumer\pom.xml.
+2016-05-17 14:17:40,956 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:17:40,958 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:17:40,958 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:17:40,959 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:17:40,959 [Worker-43] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-consumer
+2016-05-17 14:17:40,959 [Worker-43] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-consumer
+2016-05-17 14:17:40,966 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:18:14,811 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-consumer:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-consumer\pom.xml.
+2016-05-17 14:18:16,202 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:18:16,202 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:18:16,203 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:18:16,204 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:18:16,204 [Worker-28] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-consumer
+2016-05-17 14:18:16,204 [Worker-28] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-consumer
+2016-05-17 14:18:16,208 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:18:43,930 [Worker-45] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-05-17 14:18:44,164 [Worker-45] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-consumer:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-consumer\pom.xml.
+2016-05-17 14:18:44,682 [Worker-45] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-provider:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-provider\pom.xml.
+2016-05-17 14:18:47,042 [Worker-45] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-consumer/src/main/java
+2016-05-17 14:18:47,042 [Worker-45] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dubbo-consumer/src/main/resources
+2016-05-17 14:18:47,043 [Worker-45] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-consumer/src/test/java
+2016-05-17 14:18:47,043 [Worker-45] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dubbo-consumer/src/test/resources
+2016-05-17 14:18:48,102 [Worker-45] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-provider/src/main/java
+2016-05-17 14:18:48,102 [Worker-45] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dubbo-provider/src/main/resources
+2016-05-17 14:18:48,103 [Worker-45] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-provider/src/test/java
+2016-05-17 14:18:48,103 [Worker-45] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dubbo-provider/src/test/resources
+2016-05-17 14:18:48,231 [Worker-45] ERROR o.e.m2e.wtp.WTPProjectConfigurator - Unable to configure dubbo-provider
+org.eclipse.m2e.wtp.MarkedException: Unable to configure dubbo-provider
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:98) ~[na:na]
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:71) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:501) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:494) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:432) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:345) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1351) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:342) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77) [org.eclipse.m2e.core.ui_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have not been satisfied.
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241) ~[org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339) ~[na:na]
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:133) ~[na:na]
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:94) ~[na:na]
+	... 18 common frames omitted
+2016-05-17 14:18:48,865 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for dubbo-consumer
+2016-05-17 14:18:48,888 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for dubbo-provider
+2016-05-17 14:18:48,895 [Worker-45] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2016-05-17 14:18:49,921 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:18:49,922 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-05-17 14:18:49,930 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:18:49,931 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:18:49,931 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-provider
+2016-05-17 14:18:49,931 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-provider
+2016-05-17 14:18:49,934 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:18:50,819 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:18:50,820 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-05-17 14:18:50,823 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:18:50,823 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:18:50,823 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-consumer
+2016-05-17 14:18:50,823 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-consumer
+2016-05-17 14:18:50,825 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:19:11,994 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:19:11,997 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:19:11,999 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:19:12,000 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:19:19,810 [Worker-48] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-05-17 14:19:19,978 [Worker-48] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ayou:dubbo-provider:0.0.1-SNAPSHOT @ E:\JAVA\JavaCode\dubbo\dubbo-provider\pom.xml.
+2016-05-17 14:19:20,880 [Worker-48] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-provider/src/main/java
+2016-05-17 14:19:20,880 [Worker-48] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dubbo-provider/src/main/resources
+2016-05-17 14:19:20,881 [Worker-48] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dubbo-provider/src/test/java
+2016-05-17 14:19:20,881 [Worker-48] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dubbo-provider/src/test/resources
+2016-05-17 14:19:21,992 [Worker-48] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for dubbo-provider
+2016-05-17 14:19:21,999 [Worker-48] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2016-05-17 14:19:22,879 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:19:22,880 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-05-17 14:19:22,883 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:19:22,884 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:19:22,884 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-provider
+2016-05-17 14:19:22,884 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-provider
+2016-05-17 14:19:22,886 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:19:56,340 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:19:56,342 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:19:56,343 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:19:56,344 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:20:07,335 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:20:07,336 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-05-17 14:20:07,337 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:20:07,338 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:20:07,338 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-provider
+2016-05-17 14:20:07,338 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-provider
+2016-05-17 14:20:07,342 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:20:07,379 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:20:07,380 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-05-17 14:20:07,381 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:20:07,381 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:20:07,382 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dubbo-consumer
+2016-05-17 14:20:07,382 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dubbo-consumer
+2016-05-17 14:20:07,384 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:20:35,123 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:20:35,125 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:20:35,126 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:20:35,128 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:20:40,535 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:20:40,536 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:20:40,537 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:20:40,537 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:20:50,102 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:20:50,104 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:20:50,105 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:20:50,107 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:27:50,315 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:27:50,317 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-05-17 14:27:50,318 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:27:50,319 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:28:02,787 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:28:02,788 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-05-17 14:28:02,789 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:28:02,789 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:28:16,790 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:28:16,791 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-05-17 14:28:16,793 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:28:16,794 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:29:11,278 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:29:11,279 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-05-17 14:29:11,279 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:29:11,280 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:29:47,676 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:29:47,677 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-05-17 14:29:47,678 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:29:47,679 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:30:46,159 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:30:46,160 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-05-17 14:30:46,161 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:30:46,162 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:31:01,042 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:31:01,043 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-05-17 14:31:01,044 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:31:01,044 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 14:31:13,551 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:31:13,552 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-05-17 14:31:13,552 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 14:31:13,553 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
